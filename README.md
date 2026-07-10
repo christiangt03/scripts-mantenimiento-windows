@@ -18,7 +18,7 @@ administrar tu equipo. Todo comentado en español y pensado para ser
 
 ## Cómo se usan
 
-1. Abre la carpeta `C:\Users\chris\Desktop\Proyectis\Scrips`.
+1. Abre la carpeta donde hayas descargado/clonado este repositorio.
 2. Clic derecho en **`Menu.ps1`** → **Ejecutar con PowerShell**.
 3. Elige la opción del menú.
 
@@ -36,7 +36,7 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 O bien lanza cualquier script directamente sin cambiar la política:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File "C:\Users\chris\Desktop\Proyectis\Scrips\Menu.ps1"
+powershell -ExecutionPolicy Bypass -File "C:\ruta\donde\este\el\repo\Menu.ps1"
 ```
 
 ## Orden recomendado la primera vez
