@@ -1,0 +1,5 @@
+# Informes generados por 1-Diagnostico.ps1 (contienen datos del equipo)
+Informe_Diagnostico_*.txt
+
+# Config local de Claude Code
+.claude/
